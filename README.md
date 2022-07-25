@@ -1,8 +1,4 @@
-# Image Theft Detection Solution 
-
-# 도용 감지 시스템
-
---- 
+# Instagram Image Crawler 
 
 - 인스타그램 계정, 해시태그 이미지 크롤러.
     - Instagram account, hashtag image crawler.
@@ -11,6 +7,7 @@
     - Use MTCNN to detect people and save images.
 
 --- 
+### requirements?
 
 - Chrome Version : 103.0.5060.134, Mac Os
 - selenium == 3.14.1
